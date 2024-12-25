@@ -1,0 +1,13 @@
+.para{
+    border-radius: 2px;
+}
+.para1{
+    border-bottom: solid;
+    border-top: dashed;
+    border-left: dotted;
+    border-right: dotted;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
