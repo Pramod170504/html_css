@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box1{
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 100px;
+    padding: 4px;
+    height: 300px;
+    width: 300px;
+}
+p{
+    border: 2px solid black;
+  margin-top: 2px;
+}
+h1{
+    border: 2px solid black;
+    margin-top: 2px;
+}

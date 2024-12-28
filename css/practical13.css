@@ -1,0 +1,19 @@
+
+.box{
+    border:2px solid rgb(247, 18, 18) ;
+    height: 300px;
+    width: 300px;
+   margin-top: 40px;
+    padding: 10px;
+    margin: auto;
+
+}
+.disc{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    padding: 8px;
+    margin: auto;
+    margin-top: 20px;
+}
